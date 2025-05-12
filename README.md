@@ -1,3 +1,5 @@
+*för mina kamrater*
+
 För att köra detta projekt lokalt krävs det att följande programvara är installerad på din dator:
 - [Node.js](https://nodejs.org/en/)
 - [MySQL](https://www.mysql.com/)
