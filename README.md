@@ -29,3 +29,4 @@ För att köra detta projekt lokalt krävs det att följande programvara är ins
 ## användning
 1. använd inte för mycket av min OpenAi API key, jag har bara 4.87 dollar kvar.
 2. och ja man ska inte lägga ut sina nycklar på internet, ingen kommer se detta endå
+3. [edit] nycklar bortagna
