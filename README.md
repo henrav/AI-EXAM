@@ -23,8 +23,6 @@ För att köra detta projekt lokalt krävs det att följande programvara är ins
 5. annars kör `npm install` i respektive mapp
 
 6. ifall problemet fortfarande framstår, kontakta mig på `henrav-2@student.ltu.se`
-7. jag svarar så fort jag kan, säger vi, orkar inte lista ut några fler problemshooting tips just nu.
-8. lycka till,
 
 ## användning
 1. använd inte för mycket av min OpenAi API key, jag har bara 4.87 dollar kvar.
